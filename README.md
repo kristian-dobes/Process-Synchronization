@@ -1,4 +1,4 @@
-# Inter-Process Communication (IPC) Simulation
+# Multi-Process Synchronization with Semaphores
 
 ## Overview
 This project is a **multi-process simulation** that utilizes **semaphores and shared memory** for inter-process communication. The program simulates customers and workers interacting in a service environment, ensuring synchronization using **POSIX semaphores**.
